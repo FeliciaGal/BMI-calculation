@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url("bmi.png");
+}
+#find {
+  margin-top: 300px;
+  margin-left: 150px;
+}
+.fist-input {
+  height: 30px;
+}
+
+#btn {
+  border-radius: 5px;
+  background-color: rgb(197, 197, 197);
+}
+.secound-input {
+  height: 30px;
+}
+
+.fist-btn {
+  height: 30px;
+}
